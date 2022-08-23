@@ -5,7 +5,7 @@ class Config(object):
 
     API_ID = 16596628  # integer value, dont use ""
     API_HASH = "421764a823ee2dff786d413aea09959f"
-    TOKEN = "5416296821:AAFfHmVs76xg2YUJ14f5gAH1eSVFZ-tPl40"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5791754081:AAFFMiLPXTqu0J3RraOdIw-dRIVcB3QV9Ts"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5136746907  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "wajirrr"
     SUPPORT_CHAT = "xteamBDChat"  # Your own group for support, do not add the @
